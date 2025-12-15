@@ -3,3 +3,6 @@ datasets/*
 
 # Allow only business6.csv
 !datasets/business6.csv
+
+# CatBoost training logs
+notebooks/catboost_info/
