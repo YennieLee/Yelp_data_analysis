@@ -1,0 +1,5 @@
+# Ignore everything inside datasets
+datasets/*
+
+# Allow only business6.csv
+!datasets/business6.csv
